@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'https://ciseed-jdbence.c9.io';
+$config['base_url']	= 'http://localhost/Assesment/ciseed/codeigniter/index.php/';
 
 /*
 |--------------------------------------------------------------------------
